@@ -27,3 +27,21 @@
 .menu a:hover{
     background-color: yellow;
 }
+header, .main, footer {
+    width: 90%;
+    margin: 20px auto;
+    max-width: 1000px;
+    font-size: 18px;
+    font-family:times new roman;
+}
+.main .articles article {
+    padding: 20px;
+    background: #af11a2;
+    margin-bottom: 20px;
+    border-radius: 15px;
+    background-image: linear-gradient(to right, rgb(177, 38, 103),white);
+    box-shadow: 5px 5px 5px rgb(168, 23, 161);
+    font-size: 18px;
+    
+    }
+    
