@@ -1,0 +1,29 @@
+.encabezado {
+    font-size: 50px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    width: 1000px;
+    background-image: linear-gradient(to right, rgb(214, 235, 79),rgb(215, 129, 255));
+    box-shadow: 10px 10px 10px gray;
+    }
+.menu{
+    list-style: none;
+    padding: 0;
+    background-color: blue;
+    width: 70%;
+    max-width: 1000px;
+    margin: center;
+}
+.menu a{ 
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    display: block;
+}
+.menu a{
+    display: inline-block;
+    text-align-last: center;
+}
+.menu a:hover{
+    background-color: yellow;
+}
