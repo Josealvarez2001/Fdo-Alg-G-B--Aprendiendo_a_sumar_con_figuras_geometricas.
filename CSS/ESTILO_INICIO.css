@@ -12,7 +12,7 @@ body{
     border-radius: 10px;
     margin-bottom: 10px;
     width: 1000px;
-    background-image: linear-gradient(to right, rgb(214, 235, 79),rgb(215, 129, 255));
+    background-image: linear-gradient(to right, rgba(25, 233, 18, 0.973),rgb(8, 248, 40));
     box-shadow: 10px 10px 10px gray;
     }
 .menu{
